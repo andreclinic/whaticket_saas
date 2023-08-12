@@ -24,7 +24,7 @@ const Copyright = () => {
 	return (
 	  <Typography variant="body2" color="textSecondary" align="center">
 		© {new Date().getFullYear()}
-		{" - S.I. Whaticket"}
+		{" - Multiatendimento"}
 		{"."}
 	  </Typography>
 	);

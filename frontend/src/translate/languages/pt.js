@@ -2,7 +2,7 @@ const messages = {
   pt: {
     translations: {
       signup: {
-        title: "Assinatura do S.I. Whaticket",
+        title: "Assinatura do Multiatendimento",
         toasts: {
           success: "Empresa criada com sucesso! Faça seu login!!!.",
           fail: "Erro ao criar Empresa. Verifique os dados informados.",
