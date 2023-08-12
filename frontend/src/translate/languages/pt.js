@@ -9,7 +9,7 @@ const messages = {
         },
         form: {
           name: "Nome",
-          email: "Email",
+          email: "E-mail",
           password: "Senha",
         },
         buttons: {

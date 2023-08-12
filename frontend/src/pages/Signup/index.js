@@ -120,7 +120,7 @@ const SignUp = () => {
 			<CssBaseline />
 			<div className={classes.paper}>
 			    <div>
-					<center><img style={{ margin: "0", height: "150px", width: "200px" }} src={logo} alt="Whats" /></center>
+					<center><img style={{ margin: "0", height: "84px", width: "351px" }} src={logo} alt="Whats" /></center>
 				<p></p>
 				</div>
 				<Typography component="h1" variant="h5">

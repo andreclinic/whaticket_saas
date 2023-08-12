@@ -71,7 +71,7 @@ const Login = () => {
 			<CssBaseline />
 			<div className={classes.paper}>
 				<div>
-				   <center><img style={{ margin: "0", height: "150px", width: "200px" }} src={logo} alt="Whats" /></center>
+				   <center><img style={{ margin: "0", height: "84px", width: "351px" }} src={logo} alt="Whats" /></center>
 				</div>
 				<form className={classes.form} noValidate onSubmit={handlSubmit}>
 					<TextField

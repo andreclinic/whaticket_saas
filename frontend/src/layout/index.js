@@ -50,7 +50,7 @@ const useStyles = makeStyles((theme) => ({
   toolbar: {
     paddingRight: 24, // keep right padding when drawer closed
     color: "white",
-    background: "linear-gradient(to right, #408430, #408430 , #25D366)"   
+    background: "linear-gradient(to right, #fa003b, #4b4b4b , #fa003b)"   
   },
   toolbarIcon: {
     display: "flex",
@@ -58,7 +58,7 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: "space-between",
     padding: "0 8px",
     minHeight: "48px",
-    backgroundColor: "408430"
+    backgroundColor: "fa003b"
   },
   appBar: {
     zIndex: theme.zIndex.drawer + 1,

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.33d197d0.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.9ebd4227.js",
+    "static/css/2.fa426b8c.chunk.css": "/static/css/2.fa426b8c.chunk.css",
+    "static/js/2.7683ddd0.chunk.js": "/static/js/2.7683ddd0.chunk.js",
+    "static/js/3.d70e1e5c.chunk.js": "/static/js/3.d70e1e5c.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.6cdef9c1c9c8dfcfd5e055f12cd13e57.js": "/precache-manifest.6cdef9c1c9c8dfcfd5e055f12cd13e57.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.7683ddd0.chunk.js.LICENSE.txt": "/static/js/2.7683ddd0.chunk.js.LICENSE.txt",
+    "static/js/3.d70e1e5c.chunk.js.LICENSE.txt": "/static/js/3.d70e1e5c.chunk.js.LICENSE.txt",
+    "static/js/main.33d197d0.chunk.js.LICENSE.txt": "/static/js/main.33d197d0.chunk.js.LICENSE.txt",
+    "static/media/chat_notify.mp3": "/static/media/chat_notify.2529c259.mp3",
+    "static/media/logo.png": "/static/media/logo.7b19b3cf.png",
+    "static/media/planilha.xlsx": "/static/media/planilha.549edeba.xlsx",
+    "static/media/sound.mp3": "/static/media/sound.940a80bb.mp3",
+    "static/media/wa-background.png": "/static/media/wa-background.2675a051.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ebd4227.js",
+    "static/css/2.fa426b8c.chunk.css",
+    "static/js/2.7683ddd0.chunk.js",
+    "static/js/main.33d197d0.chunk.js"
+  ]
+}
